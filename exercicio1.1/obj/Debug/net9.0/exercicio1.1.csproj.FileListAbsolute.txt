@@ -1,0 +1,14 @@
+C:\Users\coyote\Desktop\projeto\exercicio1.1\bin\Debug\net9.0\exercicio1.1.exe
+C:\Users\coyote\Desktop\projeto\exercicio1.1\bin\Debug\net9.0\exercicio1.1.deps.json
+C:\Users\coyote\Desktop\projeto\exercicio1.1\bin\Debug\net9.0\exercicio1.1.runtimeconfig.json
+C:\Users\coyote\Desktop\projeto\exercicio1.1\bin\Debug\net9.0\exercicio1.1.dll
+C:\Users\coyote\Desktop\projeto\exercicio1.1\bin\Debug\net9.0\exercicio1.1.pdb
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.AssemblyInfoInputs.cache
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.AssemblyInfo.cs
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.csproj.CoreCompileInputs.cache
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.dll
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\refint\exercicio1.1.dll
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.pdb
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\exercicio1.1.genruntimeconfig.cache
+C:\Users\coyote\Desktop\projeto\exercicio1.1\obj\Debug\net9.0\ref\exercicio1.1.dll
