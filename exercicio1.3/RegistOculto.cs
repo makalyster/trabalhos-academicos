@@ -1,7 +1,9 @@
 class RegistroOculto : RegistroBase
 {
+    //objeto base nessa classe n chama new 
+
     public new void Salvar()
     {
-        Console.WriteLine("RegistroOculto: Salvando com ocultação...");
+        Console.WriteLine("salvando oculto");
     }
 }
