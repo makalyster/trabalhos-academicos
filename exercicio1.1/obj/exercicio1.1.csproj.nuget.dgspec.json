@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coyote\\Desktop\\projeto\\exercicio1.1\\exercicio1.1.csproj": {}
+    "C:\\Users\\coyote\\Desktop\\projeto\\trabalhos academicos\\exercicio1.1\\exercicio1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coyote\\Desktop\\projeto\\exercicio1.1\\exercicio1.1.csproj": {
+    "C:\\Users\\coyote\\Desktop\\projeto\\trabalhos academicos\\exercicio1.1\\exercicio1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coyote\\Desktop\\projeto\\exercicio1.1\\exercicio1.1.csproj",
+        "projectUniqueName": "C:\\Users\\coyote\\Desktop\\projeto\\trabalhos academicos\\exercicio1.1\\exercicio1.1.csproj",
         "projectName": "exercicio1.1",
-        "projectPath": "C:\\Users\\coyote\\Desktop\\projeto\\exercicio1.1\\exercicio1.1.csproj",
+        "projectPath": "C:\\Users\\coyote\\Desktop\\projeto\\trabalhos academicos\\exercicio1.1\\exercicio1.1.csproj",
         "packagesPath": "C:\\Users\\coyote\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coyote\\Desktop\\projeto\\exercicio1.1\\obj\\",
+        "outputPath": "C:\\Users\\coyote\\Desktop\\projeto\\trabalhos academicos\\exercicio1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coyote\\AppData\\Roaming\\NuGet\\NuGet.Config"

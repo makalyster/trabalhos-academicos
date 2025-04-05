@@ -13,8 +13,8 @@ public class DocumentoTexto:Documento
     //metodo q sera substituido
     public override void Imprimir()
     {
-        base.Imprimir(); // imprime dados básicos
-        Console.WriteLine($"Conteúdo: {Conteudo}"); // adiciona o conteúdo do texto
+        base.Imprimir(); 
+        Console.WriteLine($"Conteúdo: {Conteudo}"); 
     
     }
 
