@@ -1,3 +1,5 @@
+
+
 public class DocumentoTexto:Documento
 {
     //atributos especifico

@@ -1,3 +1,4 @@
+
 public class DocumentoPdf:Documento
 {
     //atributos especificos
