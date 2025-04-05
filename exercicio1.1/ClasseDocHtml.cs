@@ -1,4 +1,3 @@
-
 public class DocumentoHtml:Documento
 {
     public string Html { get; set; } // conteudo do HTML

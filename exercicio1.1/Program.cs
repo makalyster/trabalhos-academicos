@@ -1,25 +1,25 @@
-﻿Console.Clear();
+﻿class Program
+{
+    static void Main()
+    {
+        // Cria Texto
+        var texto = new DocumentoTexto("Relatorio", "Alice", DateTime.Now, "Isso é um relatorio.");
 
-Console.WriteLine("TITULO");
-string Titulox = Console.ReadLine();
-Console.WriteLine("AUTOR");
-string Autorx = Console.ReadLine();
-Console.WriteLine("CONTEUDO");
-string Conteudox = Console.ReadLine();
+        // Cria HTML 
+        var html = new DocumentoHtml ("Pagina", "Bob", DateTime.Now, "<h1>!odnum alO</h1>");
 
-DateTime Datax = DateTime.Now;
+        // Cria PDF 
+        var pdf = new DocumentoPdf("Contrato", "Carol", DateTime.Now, "Isso é um contrato.");
+        pdf.AdicionarMarcaDagua("UltraConfidencial");
 
-/*
-string Titulox = "abc";
-string Autorx = "abc";
-DateTime Datax = DateTime.Now;
-string Conteudox = "abc";
-*/
+        //Lista de documentos
+        List<Documento> documentos = new List<Documento> { texto, html, pdf };
 
-Console.Clear();
+        // Processa os documentos
+        var processador = new GerenciadorDocumentos();
+        processador.ProcessarColecao(documentos);
 
-Documento Documento1 = new Documento(Titulox,Autorx,Datax,Conteudox);
-Documento1.Imprimir();
-Console.WriteLine("");
-Console.WriteLine("Conteudo:");
-Console.WriteLine($"    {Documento1.ConteudoFormatado()}");
+        //Conta palavras
+        Console.WriteLine($"Palavras no DocumentoTexto: {texto.ContarPalavras()}");
+    }
+}
